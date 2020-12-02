@@ -31,10 +31,10 @@
 ![](https://github.com/superzhaoyang/img_storage/blob/master/FlappyBird/new2.png)
 
 # Explanation of file or folder
-final_log_file.txt :this txt file records the detail step 's state of the bird;
-score.txt this txt :file records the scores of the flappy bird every 1000 steps;
-score.txt this txt :records the socres of the flappy bird afters 5390000 iterations;
-assets :this foler records the source files of the Game Flappy Bird;
-saving_nets2:this folder records the last few tiemes models;
+final_log_file.txt :this txt file records the detail step 's state of the bird;  
+score.txt this txt :file records the scores of the flappy bird every 1000 steps;  
+score.txt this txt :records the socres of the flappy bird afters 5390000 iterations;  
+assets :this foler records the source files of the Game Flappy Bird;  
+saving_nets2:this folder records the last few tiemes models;  
 # Data Analysze
 
