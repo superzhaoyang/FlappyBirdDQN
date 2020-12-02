@@ -1,6 +1,6 @@
 # Project intro
 
-&nbsp;&nbsp;&nbsp;&nbsp;This project uses the main framework of pytorch+pygame+opencv,Papers on Deepmind《Human-level control through deep Reinforcement learning》,Choosing Flappy Bird as a game instance to reproduce its core algorithm
+&nbsp;&nbsp;&nbsp;&nbsp;This project uses the main framework of pytorch+pygame+opencv,Papers on Deepmind《Human-level control through deep Reinforcement learning》,Choosing Flappy Bird as a game instance to reproduce its core algorithm.As we finish trainging,this brid can beat most of people players.
 
 ![Human-level control through deep Reinforcement learning](https://github.com/superzhaoyang/img_storage/blob/master/FlappyBird/%E6%89%B9%E6%B3%A8%202020-05-13%20194059.png)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《Human-level control through deep Reinforcement learning》
@@ -30,6 +30,11 @@
 
 ![](https://github.com/superzhaoyang/img_storage/blob/master/FlappyBird/new2.png)
 
-# Explanation of .txt
-
+# Explanation of file or folder
+final_log_file.txt :this txt file records the detail step 's state of the bird;
+score.txt this txt :file records the scores of the flappy bird every 1000 steps;
+score.txt this txt :records the socres of the flappy bird afters 5390000 iterations;
+assets :this foler records the source files of the Game Flappy Bird;
+saving_nets2:this folder records the last few tiemes models;
 # Data Analysze
+
