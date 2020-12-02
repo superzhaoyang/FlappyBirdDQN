@@ -37,4 +37,13 @@ score.txt this txt :records the socres of the flappy bird afters 5390000 iterati
 assets :this foler records the source files of the Game Flappy Bird;  
 saving_nets2:this folder records the last few tiemes models;  
 # Data Analysze
+![](https://github.com/superzhaoyang/img_storage/blob/master/FlappyBird/290000%20steps.png)  
+the avg scores of 2900000 iterations.  
+==
+![](https://github.com/superzhaoyang/img_storage/blob/master/FlappyBird/5300000.png)  
+the avg scores of 5300000 iterations.as we can see ,there is a obvious score growth about 3000000 iterations.Clearly,there is no doubt that the score will continuely grow if we add the training iterations. 
+==
+![](https://github.com/superzhaoyang/img_storage/blob/master/FlappyBird/avg%20score.png)    
+At point ot 5300000 ,the avg scores and the peak score of the bird.  
+==
 
